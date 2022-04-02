@@ -1,0 +1,2 @@
+# Etiqueta figure
+

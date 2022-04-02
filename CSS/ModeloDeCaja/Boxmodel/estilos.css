@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+
+}
+
+.box{
+    width: 200px;
+    height: 100px;
+}
+.box1{
+    background-color: yellow;
+  /*
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-right: 25px;
+    margin-left: 30px;
+*/
+/* margin:top right bottom left ;*/
+
+/*Centrar un elemento
+margin: 0 auto ;
+*/
+    
+}
+.box2{
+    background-color:cornflowerblue;
+
+}   

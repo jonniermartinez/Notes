@@ -1,1 +1,0 @@
-# Páginas estáticas vs Dinámicas
